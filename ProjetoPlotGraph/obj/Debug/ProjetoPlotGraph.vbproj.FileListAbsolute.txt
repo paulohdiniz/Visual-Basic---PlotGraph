@@ -1,0 +1,12 @@
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\bin\Debug\ProjetoPlotGraph.exe.config
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\bin\Debug\ProjetoPlotGraph.exe
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\bin\Debug\ProjetoPlotGraph.pdb
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\bin\Debug\ProjetoPlotGraph.xml
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\obj\Debug\ProjetoPlotGraph.vbprojAssemblyReference.cache
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\obj\Debug\ProjetoPlotGraph.Form1.resources
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\obj\Debug\ProjetoPlotGraph.Resources.resources
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\obj\Debug\ProjetoPlotGraph.vbproj.GenerateResource.cache
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\obj\Debug\ProjetoPlotGraph.vbproj.CoreCompileInputs.cache
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\obj\Debug\ProjetoPlotGraph.exe
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\obj\Debug\ProjetoPlotGraph.xml
+C:\Users\phdin\Source\Repos\ProjetoPlotGraph\ProjetoPlotGraph\obj\Debug\ProjetoPlotGraph.pdb
